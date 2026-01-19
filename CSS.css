@@ -1,0 +1,7 @@
+span:first-child {
+  /* style du premier span d'un élément, par exemple le nom de la formation  */
+}
+
+span:last-child {
+  /* style du dernier span d'un élément, par exemple la date dans la éléments de la liste formation */
+}
