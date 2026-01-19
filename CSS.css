@@ -1,3 +1,7 @@
-ceci est un document CSS
+span:first-child {
+  /* style du premier span d'un élément, par exemple le nom de la formation  */
+}
 
-cdjifnez
+span:last-child {
+  /* style du dernier span d'un élément, par exemple la date dans la éléments de la liste formation */
+}
